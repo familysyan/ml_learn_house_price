@@ -1,0 +1,5 @@
+name: ml_learn_house_price
+dependencies
+  - scikit-learn
+  - pandas
+  - matplotlib
